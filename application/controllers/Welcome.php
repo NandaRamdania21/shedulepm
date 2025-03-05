@@ -20,6 +20,10 @@ class Welcome extends CI_Controller {
 	 */
 	public function index()
 	{
+<<<<<<< HEAD
 		$this->load->view('welcome_message');
+=======
+		$this->load->view('data_mesin');
+>>>>>>> 6b5c716 (update dashboard)
 	}
 }

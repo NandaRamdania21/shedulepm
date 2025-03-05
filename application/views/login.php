@@ -17,8 +17,13 @@
         href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i"
         rel="stylesheet">
 
+<<<<<<< HEAD
     <!-- Custom styles for this template-->
     <link href="css/sb-admin-2.min.css" rel="stylesheet">
+=======
+    <!-- Custom styles for this template--> 
+    <link href="assets/css/sb-admin-2.min.css" rel="stylesheet">
+>>>>>>> 6b5c716 (update dashboard)
 
 </head>
 
@@ -36,7 +41,11 @@
                         <!-- Nested Row within Card Body -->
                         <div class="row">
                             <div class="col-lg-6 d-flex align-items-center justify-content-center">
+<<<<<<< HEAD
                                 <img src="img/Logo.png" alt="Company Logo" class="img-fluid" style="max-width: 100%;">
+=======
+                                <img src="assets/img/Logo.png" alt="Company Logo" class="img-fluid" style="max-width: 100%;">
+>>>>>>> 6b5c716 (update dashboard)
                             </div>
                             
                             <div class="col-lg-6">
@@ -61,7 +70,11 @@
                                                     Me</label>
                                             </div>
                                         </div>
+<<<<<<< HEAD
                                         <a href="index.html" class="btn btn-primary btn-user btn-block">
+=======
+                                        <a href="index.php" class="btn btn-primary btn-user btn-block">
+>>>>>>> 6b5c716 (update dashboard)
                                             Login
                                         </a>
                                         <hr>
